@@ -1,6 +1,10 @@
 # logindemo
 
-A new Flutter application.
+A new Flutter phone authentication application.
+
+# screenshot
+![Screenshot_2020-08-08-12-54-26-708_com example logindemo](https://user-images.githubusercontent.com/68682390/89705073-bccb5800-d977-11ea-8d53-e379f9e26749.jpg)
+
 
 ## Getting Started
 
